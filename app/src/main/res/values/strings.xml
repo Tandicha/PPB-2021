@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string-array name="operasi">
+        <item value="Kosong">Masukkan operasi pilihan</item>
+        <item value="Penjumlahan">Penjumlahan</item>
+        <item value="Pengurangan">Pengurangan</item>
+        <item value="Perkalian">Perkalian</item>
+        <item value="Pembagian">Pembagian</item>
+    </string-array>
+</resources>
